@@ -16,7 +16,7 @@ Sentences are also classified as pre or post Booker, which refers to the 2005 Su
   
 3. The tools: What computational tools will you use to solve the task? 
 
-First I need to convert the data into a format that is readable with one of the many tools available online. Then I will use Pandas, and Folium to make choropleth maps. DASH might also come in handy, and other software too once I get into the project more.
+First I need to convert the data into a format that is readable with one of the many tools available online. Then I will use Pandaso to organize the data, and perhaps to filter it in certain ways, and Folium to make choropleth maps. DASH might also come in handy. The code will be organized in a python library. 
  
 4.	The novelty: Why is this novel? 
 
@@ -24,4 +24,4 @@ As mentioned above, this project would make federal sentencing information much 
 
 5.	The goal: What is your envisioned product at the due date and after?
 
-A helpful interface/tool that can automatically take data in an SPSS format and make it accessible, searchable and interactive, including producing custom maps, charts and tables to answer particular queries. 
+A helpful interface/tool organized in a python library that can automatically take data in an SPSS format and make it accessible, searchable and interactive, including producing custom maps, charts and tables to answer particular queries. 
